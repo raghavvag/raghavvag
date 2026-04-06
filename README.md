@@ -97,7 +97,6 @@ Engineered a Smart Parcel Tracking System using `ASP.NET Core` + `Entity Framewo
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
 
 </div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## Hackathons & Recognition
